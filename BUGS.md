@@ -179,9 +179,9 @@
 
 **Вложения:**
 1. Карточка товара
-   ![Карточка товара](screenshots/bug05-count-product-edit-card.png)
+   ![Карточка товара](screenshots/bug-05-count-product-edit-card.png)
 2. Карточка редактирования объявления
-   ![Карточка редактирования объявления](screenshots/bug05-count-product-item-card.png)
+   ![Карточка редактирования объявления](screenshots/bug-05-count-product-item-card.png)
 
 
 
@@ -323,7 +323,7 @@
 **Вложения:**
 
 1. График статистики
-   ![График статистики](screenshots/bug09-views-statistics.png)
+   ![График статистики](screenshots/bug-09-views-statistics.png)
 ---
 
 ## BUG-10 Не отображается изображение в карточках продавца и в блоке дополнительных услуг товара
@@ -352,9 +352,9 @@
 
 **Вложения:**
 1. Карточка продавца  
-   ![Карточка продавца](screenshots/bug10-image-not-displayed-seller-card.png)
+   ![Карточка продавца](screenshots/bug-10-image-not-displayed-seller-card.png)
 2. Карточка товара
-   ![Карточка товара](screenshots/bug10-image-not-displayed-item-card.png)
+   ![Карточка товара](screenshots/bug-10-image-not-displayed-item-card.png)
 ---
 
 
@@ -384,6 +384,6 @@
 
 **Вложения:**
 1. Дублирование текста  
-   ![Дублирование текста](screenshots/bug11-duplicate-text.png)
+   ![Дублирование текста](screenshots/bug-11-duplicate-text.png)
 2. Смещение текста относительно иконки  
-   ![Смещение текста](screenshots/bug11-displacement-text.png)
+   ![Смещение текста](screenshots/bug-11-displacement-text.png)
