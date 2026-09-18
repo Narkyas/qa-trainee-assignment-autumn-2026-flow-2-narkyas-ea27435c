@@ -1,6 +1,6 @@
 # Test Cases — API 
 
-## Общая информация
+## Общая  информация
 
 **Base URL:** `https://qa-internship.avito.com`
 
